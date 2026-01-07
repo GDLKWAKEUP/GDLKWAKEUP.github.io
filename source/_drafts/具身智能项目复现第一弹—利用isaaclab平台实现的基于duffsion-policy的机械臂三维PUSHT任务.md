@@ -9,10 +9,9 @@ tags:
 - isaaclab
 - 具身智能
 title: 具身智能项目复现第一弹—利用isaaclab平台实现的基于duffsion policy的机械臂三维PUSHT任务
-updated: '2026-01-07T22:52:23.440+08:00'
+updated: '2026-01-07T23:11:34.027+08:00'
 ---
 ### 一、 起因：我不做嵌入式了，JOJO！
-
 
 **好吧，我也不是不做嵌入式了。只是觉得，光让电机转起来还不够，得让它“聪明”地转起来。**
 
@@ -93,5 +92,4 @@ T 型块出现在左下角。
 **但好在，坑都填平了。**
 这就是我的“具身智能”第一课。只要\*\*Passion（热情）还在，只要Patience（耐心）\*\*足够，就没有跑不通的代码！
 
-代码连接：[https://github.com/GDLKWAKEUP/Isaac-Diffusion-PushT](https://)
-
+开源链接：[https://github.com/GDLKWAKEUP/Isaac-Diffusion-PushT](https://)
