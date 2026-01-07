@@ -2,14 +2,14 @@
 abbrlink: ''
 author: GDLKWAKEUP
 categories:
-- - 项目
+- - projects
 date: ''
 tags:
 - diffusion policy
 - isaaclab
 - 具身智能
 title: 具身智能项目复现第一弹—利用isaaclab平台实现的基于duffsion policy的机械臂三维PUSHT任务
-updated: '2026-01-07T23:13:10.910+08:00'
+updated: '2026-01-07T23:25:25.532+08:00'
 ---
 ### 一、 起因：我不做嵌入式了，JOJO！
 
